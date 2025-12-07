@@ -4,20 +4,26 @@ What are you really trying to do
 - give the user a curated list of twitter embeds without having to log in to the app, and freedom to choose the tweets you marinate on by editing config;
 
 
-ER
+# ER
 - App creator - Us are the curators of 50% of the app
 - App user - anybody who downloads the app
 
-What is our differentiation & segmentation
+# What is our differentiation & segmentation
 - target segment
     - people who want to browse tweets without having to search on twitter and protect themselves from the algorithm's temptation
 - differentiation
     - totally offline app, 100% privacy app
-    - editable config
     - curated list for techies, if you want it, updates every 2 weeks
         - 6 creators curated
         - 1 unclassified creator for user to
             - put 7 labels and their chosen tweet embeds
+
+
+How many tweets
+
+7 creators x 7 labels where each label can have 1 to 50 tweets
+
+so 7th creator can have 350 tweets due their customization which is never lost
 
 
 Core User Journey
