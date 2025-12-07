@@ -1,7 +1,23 @@
 #PRD as of 20251207
 
 What are you really trying to do
+- give the user a curated list of twitter embeds without having to log in to the app, and freedom to choose the tweets you marinate on by editing config;
 
+
+ER
+- App creator - Us are the curators of 50% of the app
+- App user - anybody who downloads the app
+
+What is our differentiation & segmentation
+- target segment
+    - people who want to browse tweets without having to search on twitter and protect themselves from the algorithm's temptation
+- differentiation
+    - totally offline app, 100% privacy app
+    - editable config
+    - curated list for techies, if you want it, updates every 2 weeks
+        - 6 creators curated
+        - 1 unclassified creator for user to
+            - put 7 labels and their chosen tweet embeds
 
 
 Core User Journey
@@ -17,10 +33,6 @@ Core User Journey
             - or twitter app if installed
             - at either places if the twitter app requires user to sign in, they would need to sign in to view the full tweet
 4. Screen 2 has a bottom button of edit configuration
-    - Screen 5: User can edit the
-        - 7 creator names
-        - tweets under each creator via URL
-5. If user updates the app
-    - current config is put into back up
-    - new config is downloaded - but it will always have only 3 creators by default
-
+    - Screen 5: User can edit the contents of 7th creator which is unclassified
+        - User can edit the 7 labels and tweets inside them
+5. All updates to app will be limited to the first 6 creators
