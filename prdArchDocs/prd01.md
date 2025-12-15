@@ -1,7 +1,7 @@
 #PRD as of 20251207
 
 What are you really trying to do
-- give the user a curated list of twitter embeds without having to log in to the app, and freedom to choose the tweets you marinate on by editing config;
+- give the user a curated list of twitter embeds without having to log in to the app, redirecting the traffic to creators tweets
 
 
 # ER
